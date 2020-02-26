@@ -14,5 +14,5 @@ MFAlertView using swift
 
 # 如何使用
 ```
-pod 'MFAlertView'
+pod 'MFAlertController'
 ```
