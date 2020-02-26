@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "MFAlertView"
+  s.name         = "MFAlertController"
   s.version      = "0.0.1"
   s.summary  = 'MFAlertView using swift'
   s.homepage     = "https://github.com/wxh6520/MFAlertView"
